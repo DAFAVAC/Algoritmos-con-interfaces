@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoritOrdenDafavac", "AlgoritOrdenDafavac\AlgoritOrdenDafavac.csproj", "{2FA29395-DA5C-4167-AA23-63E1972DFAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramandoInter", "ProgramandoInter\ProgramandoInter.csproj", "{D2304D42-D822-49EA-B5BF-17181D00998C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA29395-DA5C-4167-AA23-63E1972DFAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA29395-DA5C-4167-AA23-63E1972DFAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA29395-DA5C-4167-AA23-63E1972DFAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA29395-DA5C-4167-AA23-63E1972DFAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2304D42-D822-49EA-B5BF-17181D00998C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2304D42-D822-49EA-B5BF-17181D00998C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2304D42-D822-49EA-B5BF-17181D00998C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2304D42-D822-49EA-B5BF-17181D00998C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BA87D0-A9C0-41FD-A383-B4164A910B80}
+	EndGlobalSection
+EndGlobal
